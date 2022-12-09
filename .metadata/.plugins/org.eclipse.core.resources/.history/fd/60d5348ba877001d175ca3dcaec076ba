@@ -1,0 +1,36 @@
+package com.valtech.cart.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import com.valtech.cart.entity.Cart;
+import com.valtech.cart.service.CartService;
+
+@Controller
+public class CartController {
+	
+	@Autowired
+	private CartService cartService;
+	
+	@PostMapping("/")
+	public Cart createCart(){
+		return cartService.createCart();
+	}
+	
+	@GetMapping("/{id}")
+	public Cart getCart(@PathVariable("id") long id){
+		return cartService.getCartById(id);
+	}
+	
+	
+	
+	@PostMapping("/checkout/{id}")
+	public void checkOut(@PathVariable("id") long id){
+		 cartService.checkOutCart(id);
+	}
+	
+	
+}

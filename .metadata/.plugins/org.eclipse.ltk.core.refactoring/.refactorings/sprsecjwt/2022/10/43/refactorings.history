@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;SprsecjwtApplicationTests.java&apos; to &apos;Simplejwsclient/src/valtech.jaxws&apos;&#x0D;&#x0A;- Original project: &apos;sprsecjwt&apos;&#x0D;&#x0A;- Destination element: &apos;Simplejwsclient/src/valtech.jaxws&apos;&#x0D;&#x0A;- Original element: &apos;com.valtech.spring.boot.security.jwt.SprsecjwtApplicationTests.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=Simplejwsclient/src&lt;valtech.jaxws" element1="/src\/test\/java&lt;com.valtech.spring.boot.security.jwt{SprsecjwtApplicationTests.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1666170604597" units="1" version="1.0"/>
+</session>

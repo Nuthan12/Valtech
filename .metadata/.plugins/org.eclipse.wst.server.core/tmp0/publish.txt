@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Wed Oct 19 14:28:45 IST 2022
+org.eclipse.jst.jee.server\:simplejws=D\:\\Training\\spring-tool-suite-3.7.3.RELEASE-e4.6-win32-x86_64\\sts-bundle\\pivotal-tc-server-developer-3.1.3.SR1\\base-instance\\wtpwebapps\\simplejws
+org.eclipse.jst.j2ee.server\:bookhouse=D\:\\Training\\spring-tool-suite-3.7.3.RELEASE-e4.6-win32-x86_64\\sts-bundle\\pivotal-tc-server-developer-3.1.3.SR1\\base-instance\\wtpwebapps\\bookhouse
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\nuthan.sml\\Documents\\workspace-sts-3.7.3.RELEASE\\bookhouse\\WebContent\\WEB-INF\\lib\\spring-web-3.2.3.RELEASE.jar=D\:\\Training\\spring-tool-suite-3.7.3.RELEASE-e4.6-win32-x86_64\\sts-bundle\\pivotal-tc-server-developer-3.1.3.SR1\\base-instance\\wtpwebapps\\bookhouse\\WEB-INF\\lib\\spring-web-3.2.3.RELEASE.jar
+org.eclipse.jst.jee.server\:valtechjaxws=D\:\\Training\\spring-tool-suite-3.7.3.RELEASE-e4.6-win32-x86_64\\sts-bundle\\pivotal-tc-server-developer-3.1.3.SR1\\base-instance\\wtpwebapps\\valtechjaxws

@@ -1,0 +1,4 @@
+server.port=9000
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL5InnoDBDialect
+
+

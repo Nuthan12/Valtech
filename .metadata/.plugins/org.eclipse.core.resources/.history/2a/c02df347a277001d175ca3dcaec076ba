@@ -1,0 +1,24 @@
+package com.valtech.cart.service;
+
+import org.slf4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.valtech.cart.entity.Cart;
+import com.valtech.cart.repo.CartRepository;
+
+public class CartServiceImplementation {
+	
+	@Autowired
+	private CartRepository cartRepository;
+	
+	public Cart createCart(){
+		Cart cart=cartRepository.save(new Cart());
+		return cart;
+//		logger.info("Creating a new cart");
+//		Cart cart=cartRepository.save(new Cart());
+//		logger.debug("Cart Successfully created "+cart);	
+//		return cart;
+	}
+	
+
+}

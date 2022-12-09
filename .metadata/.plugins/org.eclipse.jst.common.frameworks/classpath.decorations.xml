@@ -1,0 +1,7 @@
+<classpath>
+  <container id="valtechspring!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="C:/Users/nuthan.sml/Documents/workspace-sts-3.7.3.RELEASE/valtechspring/WebContent/WEB-INF/lib/spring-jdbc-3.2.3.RELEASE.jar">
+      <source-attachment-path>D:/Training/spring-framework-3.2.3.RELEASE/libs/spring-jdbc-3.2.3.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

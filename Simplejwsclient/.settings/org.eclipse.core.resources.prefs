@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/valtech/jaxws/HelloWorld.java=UTF-8
+encoding//src/valtech/jaxws/HelloWorldImplService.java=UTF-8
+encoding//src/valtech/jaxws/HelloWorldImplServiceLocator.java=UTF-8
+encoding//src/valtech/jaxws/HelloWorldImplServiceSoapBindingStub.java=UTF-8

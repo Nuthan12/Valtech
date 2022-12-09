@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="sprboot"/>
+<aop-project name="LearnSpringMVC"/>
+<aop-project name="apigatewayrevision"/>
+<aop-project name="sprjwsclient"/>
+<aop-project name="productlist"/>
+<aop-project name="productservice"/>
+<aop-project name="cartservice"/>
+<aop-project name="sprsectest"/>
+<aop-project name="accountservice"/>
+<aop-project name="serviceregistryrevision"/>
+<aop-project name="springauth2"/>
+<aop-project name="sprsecjwt"/>
+<aop-project name="txservice"/>
+<aop-project name="valtech-service"/>
+<aop-project name="Tx"/>
+<aop-project name="sprjws"/>
+<aop-project name="serviceregistry"/>
+<aop-project name="sprbootnew"/>
+<aop-project name="valtechspring"/>
+<aop-project name="sprsecurity"/>
+</aop-reference-model>

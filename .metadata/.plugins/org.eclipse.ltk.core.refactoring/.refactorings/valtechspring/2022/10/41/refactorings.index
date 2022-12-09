@@ -1,0 +1,12 @@
+1664797700992	Delete element
+1664798702486	Delete element
+1664860127789	Delete element
+1665050196881	Extract interface 'CustomerDAO'
+1665055183843	Pull up members to 'CustomerDAO'
+1665057622711	Rename field 'AccountType'
+1665132914466	Extract interface 'Arithmetic'
+1665133554698	Extract interface 'SimpleInterest'
+1665133566970	Delete element
+1665133602444	Extract interface 'SimpleInteres'
+1665134132433	Move file
+1665145134459	Extract interface 'CarDAO'
